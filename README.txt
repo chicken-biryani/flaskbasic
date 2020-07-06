@@ -26,6 +26,7 @@ INDEX:
 	L2-
 	    *p1 -> Adding for loops and if-else in the p1home.html	   
 			
-	
+	L3-
+	    *p1 -> inheriting the templates
 	
 	
